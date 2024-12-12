@@ -8,7 +8,7 @@ const path = require("path");
 const UserInfo = require("./schemas/userInfoSchema");
 const IssueInfo = require("./schemas/issueInfoSchema");
 const nodemailer = require("nodemailer");
-const yellow = 0;
+const yello = 0;
 
 const govBodies = [
     { name: "Roads and Infrastructure", email: "dhaneshvaibhav@gmail.com" },
