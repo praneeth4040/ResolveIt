@@ -12,7 +12,7 @@ const nodemailer = require("nodemailer");
 
 const govBodies = [
     { name: "Roads and Infrastructure", email: "dhaneshvaibhav@gmail.com" },
-    { name: "Water Supply", email: "p" },
+    { name: "Water Supply", email: "Chakkasritejaswi@gmail.com" },
     { name: "Electricity", email: "bhavaniprasadjamalpur@gmail.com" },
     { name: "Sanitation and Hygene", email: "lyfspot26@gmail.com" }
   ];
